@@ -1,0 +1,21 @@
+{
+  "name": "hkahoinappbrowser",
+  "version": "1.0.0",
+  "description": "Customized Web Viewer Page for Sun Life HK AHO using cordova plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "view",
+    "share",
+    "article",
+    "sun",
+    "life",
+    "hk",
+    "aho"
+  ],
+  "author": "HKAHO_Dev_Nik",
+  "license": "ISC"
+}
